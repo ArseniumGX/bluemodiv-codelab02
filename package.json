@@ -4,6 +4,7 @@
   "description": "Codelab da aula 2, módulo 4 (fullstack) do curso blue edtech",
   "author": "José Pereira Macedo <arseniumgx@gmail.com>",
   "repository": "git@github.com:ArseniumGX/bluemodiv-codelab02.git",
+  "keywords": ["node", "javascript", "nestjs", "typescript", "prisma", "rest-api"],
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",

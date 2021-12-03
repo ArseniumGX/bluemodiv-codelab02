@@ -1,10 +1,10 @@
 {
-  "name": "flowers-api",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "name": "bluemodiv-codelab02",
+  "version": "1.0.0",
+  "description": "Codelab da aula 2, módulo 4 (fullstack) do curso blue edtech",
+  "author": "José Pereira Macedo <arseniumgx@gmail.com>",
+  "repository": "git@github.com:ArseniumGX/bluemodiv-codelab02.git",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
